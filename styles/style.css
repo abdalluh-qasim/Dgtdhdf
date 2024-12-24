@@ -564,7 +564,7 @@ footer::before {
 .burger-menu span {
     width: 30px;
     height: 3px;
-    background: white;
+    background: black;
     transition: all 0.3s ease;
 }
 
